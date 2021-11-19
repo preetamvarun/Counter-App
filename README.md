@@ -4,10 +4,10 @@ A web app that is built with **HTML5,CSS3 & Vanilla JAVASCRIPT**
 > Note : The project is still build with pure javascript. No libraries used.
 
 ## Table of contents
-- [General Info](#general-info-)
+- [General Info](#General-Info-)
 - [Preview](#preview-)
-- [Installation](#getting-started-)
-- [Technologies](#technologies-)
+- [Installation](#Installation-)
+- [Technologies](#Technologies-Used-)
 
 ## 1. General Info 📝
 The purpose of this project is to understand and implement the javascript concepts that i've learned to make the user interface look appealing besides having fun along the journey :smiley:.
