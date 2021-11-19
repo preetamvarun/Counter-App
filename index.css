@@ -20,7 +20,6 @@
     height : 300px;
     margin-left: -150px;
     margin-top : -150px;
-    
 }
 
 .main-box .content-div{
@@ -32,13 +31,9 @@
     height : 100%;
 }
 
-.main-box .content-div h3{
-    font-size : 1.5rem;
-}
+.main-box .content-div h3{font-size : 1.5rem;}
 
-.main-box #number{
-    font-size : 2rem;
-}
+.main-box #number {font-size : 2rem;}
 
 .main-box .secondary-box{
     width : 115%;
@@ -54,9 +49,7 @@
     font-size : 2rem;
 }
 
-.main-box .secondary-box :hover{
-    cursor: pointer;
-}
+.main-box .secondary-box :hover {cursor: pointer;}
 
 .main-box .reset-button{
     margin-top : 0.8rem;

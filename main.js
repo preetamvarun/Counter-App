@@ -1,0 +1,1 @@
+console.log('start adding javascript to the counter app');
